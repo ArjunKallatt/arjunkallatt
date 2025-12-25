@@ -1,82 +1,109 @@
 <!-- ===================== HEADER ===================== -->
-
 <h1 align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DJetBrains%2BMono%26size%3D26%26duration%3D3000%26pause%3D800%26color%3DFFFFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DArjun%2BKallatt%3BCybersecurity%2BResearcher%3BPython%2BDeveloper%3BCTF%2BPlayer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Arjun+Kallatt;Cybersecurity+%26+Offensive+Security+Enthusiast;Penetration+Tester+%7C+Developer" />
 </h1>
 
 <p align="center">
-<em><strong>Security Research • Network Security • Automation • Web Development </strong></em>
+  <em><strong>Web • Network • API Security • Cybersecurity Automation</strong></em>
 </p>
 
 <p align="center">
-<a href="mailto:arjunkallatt@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"/>
-</a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/arjun-kallatt-7a3076248">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-000000%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite"/>
-</a>
-<a href="https://www.google.com/search?q=https://github.com/ArjunKallatt">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite"/>
-</a>
+  <a href="https://github.com/ArjunKallatt">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:arjunkallatt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arjun-kallatt-7a3076248">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
-🧠 Profile
+---
 
-B.Tech CSE student at Lovely Professional University with a deep interest in offensive security and digital forensics.
+## 🧠 **About Me**
+Cybersecurity enthusiast & penetration tester passionate about  
+<strong>Web, Network, API Security & Ethical Hacking</strong>.
 
-🛡️ Certified in Ethical Hacking Essentials (EHE) & Digital Forensics Essentials (DFE)
+- 🛡️ Trained in **Ethical Hacking Essentials** & **Digital Forensics Essentials**
+- 💻 Hands-on experience with vulnerability scanning & exploitation  
+- 🧪 Practice using **Cyber Ranges & CTFs** (PicoCTF, TryHackMe)  
+- 🎯 Love building tools that simplify security testing & automation
 
-⚔️ Active CTF Participant (LPU Capture The Flag)
+---
 
-🐍 Focused on Security Automation using Python
+## 🛠️ **Core Expertise**
+### 🔴 Offensive Security
+![Web](https://img.shields.io/badge/Web%20Pentesting-Advanced-black?style=for-the-badge)
+![API](https://img.shields.io/badge/API%20Security-Intermediate-black?style=for-the-badge)
+![Network](https://img.shields.io/badge/Network%20Pentesting-Advanced-black?style=for-the-badge)
+![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-Advanced-black?style=for-the-badge)
+![CTF](https://img.shields.io/badge/CTF%20Skills-Intermediate-black?style=for-the-badge)
 
-🎓 Passionate about Data Structures & Algorithms and AI in Cyber Security
+---
 
-🛠️ Core Expertise
+## 📊 **Skill Statistics**
 
-🔴 Security & Development
+### 🧪 Security Domains
+![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-85%25-111111?style=for-the-badge)
+![API Security](https://img.shields.io/badge/API%20Security-80%25-111111?style=for-the-badge)
+![Network Pentesting](https://img.shields.io/badge/Network%20Pentesting-88%25-111111?style=for-the-badge)
+![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-90%25-111111?style=for-the-badge)
+![Forensics](https://img.shields.io/badge/Digital%20Forensics-75%25-111111?style=for-the-badge)
 
-📊 Skill Statistics
+---
 
-🛡️ Security Domains
+## 💻 **Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-90%25-222222?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-85%25-222222?style=for-the-badge&logo=gnu-bash)
+![C](https://img.shields.io/badge/C-80%25-222222?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-80%25-222222?style=for-the-badge&logo=cpp)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-222222?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-80%25-222222?style=for-the-badge&logo=mysql)
 
-💻 Languages & Frameworks
+---
 
-⚙️ Tools & Technologies
+## 🖥️ **Operating Systems**
+![Linux](https://img.shields.io/badge/Linux%20(Kali%2FParrot)-90%25-000000?style=for-the-badge&logo=linux)
+![Windows AD](https://img.shields.io/badge/Windows%20%2F%20Active%20Directory-75%25-000000?style=for-the-badge&logo=windows)
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" title="Bash"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Kali Linux"/>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" title="HTML5"/>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" title="CSS3"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="42" title="Spark/Hadoop"/>
-</p>
+---
 
-🔴 Security Utilities
+## 🔧 **Security Tools**
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Advanced-black?style=for-the-badge&logo=burpsuite)
+![Nmap](https://img.shields.io/badge/Nmap-Advanced-black?style=for-the-badge&logo=nmap)
+![Metasploit](https://img.shields.io/badge/Metasploit-Intermediate-black?style=for-the-badge&logo=metasploit)
+![Wireshark](https://img.shields.io/badge/Wireshark-Advanced-black?style=for-the-badge&logo=wireshark)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Intermediate-black?style=for-the-badge&logo=owasp)
+![SQLmap](https://img.shields.io/badge/SQLmap-Intermediate-black?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-Intermediate-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Advanced-black?style=for-the-badge&logo=git)
 
-🚀 Featured Projects
+---
 
-🛡️ Vulnerability Detecting Script: A lightweight Python-based scanner using Nmap to detect open ports and check for missing security headers.
+## 🚀 **Featured Projects**
+### 🔹 **Heart Disease Prediction Web App**  
+*Machine learning–powered predictive web tool*  
+Tech: *Python (Flask), HTML, CSS, JavaScript*  
+➡️ Built an ML-based intuitive prediction system with a clean UI.
 
-🏥 Heart Disease Prediction Web App: A Flask-based ML application providing health risk assessments with a user-friendly interface.
+### 🔹 **Network & Web Security Scanner**  
+*Automated vulnerability & port scanning toolkit*  
+Tech: *Python, Nmap, Requests, BeautifulSoup*  
+➡️ Detects open ports, missing headers, outdated components, and more.
 
-📊 Result Management System: Built with Hadoop, Spark, and Hive for processing large-scale student data.
+---
 
-🧩 Arch Dotfiles: My customized Arch Linux configuration files with a focus on a productive development/security environment.
+## 🎓 **Education**
+**B.Tech — Computer Science & Engineering**  
+Lovely Professional University (2022–Present)
 
-🏆 GitHub Stats
+---
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DArjunKallatt%26show_icons%3Dtrue%26theme%3Ddark%26bg_color%3D000000%26border_color%3D333333" width="48%" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DArjunKallatt%26layout%3Dcompact%26theme%3Ddark%26bg_color%3D000000%26border_color%3D333333" width="48%" />
-</p>
+## 🏅 Certifications
+- Ethical Hacking Essentials (EHE)
+- Digital Forensics Essentials (DFE)
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DArjunKallatt%26theme%3Ddark%26background%3D000000%26border%3D333333" width="100%" />
-</p>
+---
 
-<p align="center">
-<em>"Security is not a product, but a process." — Bruce Schneier</em>
-</p>
+<p align="center"><em>“Learning every day. Breaking, fixing, securing.”</em></p>
