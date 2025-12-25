@@ -57,9 +57,6 @@ Cybersecurity enthusiast & penetration tester passionate about
 ![Python](https://img.shields.io/badge/Python-90%25-222222?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-85%25-222222?style=for-the-badge&logo=gnu-bash)
 ![C](https://img.shields.io/badge/C-80%25-222222?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-80%25-222222?style=for-the-badge&logo=cpp)
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-222222?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-80%25-222222?style=for-the-badge&logo=mysql)
 
 ---
 
